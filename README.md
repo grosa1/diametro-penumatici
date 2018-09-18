@@ -1,5 +1,6 @@
 # diametro-penumatici
-Semplice script per il calcolo del diametro dei pneumatici
+Semplice script per il calcolo del diametro della routa.
+Inserendo le misure dei pneumatici, si ottiene il diametro dell'intera routa.
 
 esempio: 
 ```
